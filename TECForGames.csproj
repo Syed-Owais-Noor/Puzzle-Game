@@ -1,0 +1,491 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{43429B78-D1F3-4F74-9F0A-4D64AA161FC2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TECForGames</RootNamespace>
+    <AssemblyName>TECForGames</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutGame.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AboutGame.Designer.cs">
+      <DependentUpon>AboutGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\DataBaseConnection.cs" />
+    <Compile Include="Classes\SaveUserMoves.cs" />
+    <Compile Include="Classes\SiSuAndFpClass.cs" />
+    <Compile Include="Complete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Complete.Designer.cs">
+      <DependentUpon>Complete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DevXDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DevXDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ExceptionError.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExceptionError.Designer.cs">
+      <DependentUpon>ExceptionError.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Exit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Exit.Designer.cs">
+      <DependentUpon>Exit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ForgetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForgetPassword.Designer.cs">
+      <DependentUpon>ForgetPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ForgetPasswordAlert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForgetPasswordAlert.Designer.cs">
+      <DependentUpon>ForgetPasswordAlert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameMenu.Designer.cs">
+      <DependentUpon>GameMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Help.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Help.Designer.cs">
+      <DependentUpon>Help.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Level1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Level1.Designer.cs">
+      <DependentUpon>Level1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Level2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Level2.Designer.cs">
+      <DependentUpon>Level2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Level3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Level3.Designer.cs">
+      <DependentUpon>Level3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Level4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Level4.Designer.cs">
+      <DependentUpon>Level4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Level5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Level5.Designer.cs">
+      <DependentUpon>Level5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Load.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Load.Designer.cs">
+      <DependentUpon>Load.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lose.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lose.Designer.cs">
+      <DependentUpon>Lose.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMenu.Designer.cs">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PlayerInfoAlert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PlayerInfoAlert.Designer.cs">
+      <DependentUpon>PlayerInfoAlert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PlayersInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PlayersInfo.Designer.cs">
+      <DependentUpon>PlayersInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SignIn.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SignIn.Designer.cs">
+      <DependentUpon>SignIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SignInAlert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignInAlert.Designer.cs">
+      <DependentUpon>SignInAlert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SignOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignOut.Designer.cs">
+      <DependentUpon>SignOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SignUp.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SignUp.Designer.cs">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SignUpAlert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignUpAlert.Designer.cs">
+      <DependentUpon>SignUpAlert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Win.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Win.Designer.cs">
+      <DependentUpon>Win.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AboutGame.resx">
+      <DependentUpon>AboutGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Complete.resx">
+      <DependentUpon>Complete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExceptionError.resx">
+      <DependentUpon>ExceptionError.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Exit.resx">
+      <DependentUpon>Exit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForgetPassword.resx">
+      <DependentUpon>ForgetPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForgetPasswordAlert.resx">
+      <DependentUpon>ForgetPasswordAlert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameMenu.resx">
+      <DependentUpon>GameMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Help.resx">
+      <DependentUpon>Help.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Level1.resx">
+      <DependentUpon>Level1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Level2.resx">
+      <DependentUpon>Level2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Level3.resx">
+      <DependentUpon>Level3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Level4.resx">
+      <DependentUpon>Level4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Level5.resx">
+      <DependentUpon>Level5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Load.resx">
+      <DependentUpon>Load.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lose.resx">
+      <DependentUpon>Lose.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenu.resx">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PlayerInfoAlert.resx">
+      <DependentUpon>PlayerInfoAlert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PlayersInfo.resx">
+      <DependentUpon>PlayersInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SignIn.resx">
+      <DependentUpon>SignIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignInAlert.resx">
+      <DependentUpon>SignInAlert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignOut.resx">
+      <DependentUpon>SignOut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignUp.resx">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignUpAlert.resx">
+      <DependentUpon>SignUpAlert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Win.resx">
+      <DependentUpon>Win.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DevXDataSet.xsc">
+      <DependentUpon>DevXDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DevXDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DevXDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DevXDataSet.xss">
+      <DependentUpon>DevXDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dbz1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dbz2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dbz3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dbz4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dbz5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dbz6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dbz7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dbz8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dbz9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dbzo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gbz1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gbz2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gbz3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gbz4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gbz5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gbz6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gbz7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gbz8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gbz9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gbzo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hbz1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hbz2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hbz3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hbz4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hbz5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hbz6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hbz7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hbz8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hbz9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hbzo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\null1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pbw7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pxyzo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pxyz9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pxyz8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pxyz7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pxyz6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pxyz5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pxyz4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pxyz3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pxyz2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pxyz1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pxyo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pxy9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pxy8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pxy7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pxy6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pxy5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pxy4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pxy3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pxy2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pxy1.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
