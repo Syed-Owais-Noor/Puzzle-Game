@@ -1,0 +1,214 @@
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\bin\Debug\TECForGames.exe.config
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\bin\Debug\TECForGames.exe
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\bin\Debug\TECForGames.pdb
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\obj\Debug\TECForGames.Form1.resources
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\obj\Debug\TECForGames.Properties.Resources.resources
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\obj\Debug\TECForGames.csproj.GenerateResource.Cache
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\obj\Debug\TECForGames.exe
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\obj\Debug\TECForGames.pdb
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\obj\Debug\TECForGames.MainMenu.resources
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\obj\Debug\TECForGames.SignIn.resources
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\obj\Debug\TECForGames.SignUp.resources
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\obj\Debug\TECForGames.Exit.resources
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\obj\Debug\TECForGames.Help.resources
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\obj\Debug\TECForGames.Alert.resources
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\obj\Debug\TECForGames.Load.resources
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\obj\Debug\TECForGames.GameMenu.resources
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\obj\Debug\TECForGames.AboutGame.resources
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\obj\Debug\TECForGames.PlayersInfo.resources
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\obj\Debug\Interop.WMPLib.dll
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\obj\Debug\TECForGames.csproj.ResolveComReference.cache
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\obj\Debug\TECForGames.Level1.resources
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\obj\Debug\TECForGames.SignOut.resources
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\obj\Debug\TECForGames.Lose.resources
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\obj\Debug\TECForGames.Win.resources
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\obj\Debug\TECForGames.Complete.resources
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\obj\Debug\TECForGames.Level2.resources
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\obj\Debug\TECForGames.Level3.resources
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\obj\Debug\TECForGames.Level4.resources
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\obj\Debug\TECForGames.Level5.resources
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\obj\Debug\TECForGames.Level6.resources
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\obj\Debug\TECForGames.Level7.resources
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\obj\Debug\TECForGames.Level8.resources
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\obj\Debug\TECForGames.Level10.resources
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\obj\Debug\TECForGames.Level9.resources
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\obj\Debug\TECForGames.Alert2.resources
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\obj\Debug\TECForGames.Alert3.resources
+C:\Users\Syed Owais Noor\Documents\Visual Studio 2012\Projects\Project of OOP\TECForGames\TECForGames\obj\Debug\TECForGames.csprojResolveAssemblyReference.cache
+F:\PAF-KIET University\TECForGames\TECForGames\bin\Debug\TECForGames.exe.config
+F:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\Interop.WMPLib.dll
+F:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.csproj.ResolveComReference.cache
+F:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.exe
+F:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.pdb
+F:\PAF-KIET University\TECForGames\TECForGames\bin\Debug\TECForGames.exe
+F:\PAF-KIET University\TECForGames\TECForGames\bin\Debug\TECForGames.pdb
+F:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.csprojResolveAssemblyReference.cache
+F:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.AboutGame.resources
+F:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Alert.resources
+F:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Alert2.resources
+F:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Alert3.resources
+F:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Complete.resources
+F:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Exit.resources
+F:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Form1.resources
+F:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.GameMenu.resources
+F:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Help.resources
+F:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Level1.resources
+F:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Level10.resources
+F:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Level2.resources
+F:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Level3.resources
+F:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Level4.resources
+F:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Level5.resources
+F:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Level6.resources
+F:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Level7.resources
+F:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Level8.resources
+F:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Level9.resources
+F:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Load.resources
+F:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Lose.resources
+F:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.MainMenu.resources
+F:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.PlayersInfo.resources
+F:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Properties.Resources.resources
+F:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.SignIn.resources
+F:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.SignOut.resources
+F:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.SignUp.resources
+F:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Win.resources
+F:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.csproj.GenerateResource.Cache
+E:\PAF-KIET University\TECForGames\TECForGames\bin\Debug\TECForGames.exe.config
+E:\PAF-KIET University\TECForGames\TECForGames\bin\Debug\TECForGames.exe
+E:\PAF-KIET University\TECForGames\TECForGames\bin\Debug\TECForGames.pdb
+E:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\Interop.WMPLib.dll
+E:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.csproj.ResolveComReference.cache
+E:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.AboutGame.resources
+E:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Alert.resources
+E:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Alert2.resources
+E:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Alert3.resources
+E:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Complete.resources
+E:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Exit.resources
+E:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Form1.resources
+E:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.GameMenu.resources
+E:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Help.resources
+E:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Level1.resources
+E:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Level2.resources
+E:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Level3.resources
+E:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Level4.resources
+E:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Level5.resources
+E:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Load.resources
+E:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Lose.resources
+E:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.MainMenu.resources
+E:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.PlayersInfo.resources
+E:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Properties.Resources.resources
+E:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.SignIn.resources
+E:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.SignOut.resources
+E:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.SignUp.resources
+E:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.Win.resources
+E:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.csproj.GenerateResource.cache
+E:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.csproj.CoreCompileInputs.cache
+E:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.exe
+E:\PAF-KIET University\TECForGames\TECForGames\obj\Debug\TECForGames.pdb
+E:\PAF-KIET University\OOP Assignment\Application Code\Project\TECForGames\TECForGames\obj\Debug\Interop.WMPLib.dll
+E:\PAF-KIET University\OOP Assignment\Application Code\Project\TECForGames\TECForGames\obj\Debug\TECForGames.csproj.ResolveComReference.cache
+E:\PAF-KIET University\OOP Assignment\Application Code\Project\TECForGames\TECForGames\obj\Debug\TECForGames.AboutGame.resources
+E:\PAF-KIET University\OOP Assignment\Application Code\Project\TECForGames\TECForGames\obj\Debug\TECForGames.Complete.resources
+E:\PAF-KIET University\OOP Assignment\Application Code\Project\TECForGames\TECForGames\obj\Debug\TECForGames.Exit.resources
+E:\PAF-KIET University\OOP Assignment\Application Code\Project\TECForGames\TECForGames\obj\Debug\TECForGames.Form1.resources
+E:\PAF-KIET University\OOP Assignment\Application Code\Project\TECForGames\TECForGames\obj\Debug\TECForGames.GameMenu.resources
+E:\PAF-KIET University\OOP Assignment\Application Code\Project\TECForGames\TECForGames\obj\Debug\TECForGames.Help.resources
+E:\PAF-KIET University\OOP Assignment\Application Code\Project\TECForGames\TECForGames\obj\Debug\TECForGames.Level1.resources
+E:\PAF-KIET University\OOP Assignment\Application Code\Project\TECForGames\TECForGames\obj\Debug\TECForGames.Level2.resources
+E:\PAF-KIET University\OOP Assignment\Application Code\Project\TECForGames\TECForGames\obj\Debug\TECForGames.Level3.resources
+E:\PAF-KIET University\OOP Assignment\Application Code\Project\TECForGames\TECForGames\obj\Debug\TECForGames.Level4.resources
+E:\PAF-KIET University\OOP Assignment\Application Code\Project\TECForGames\TECForGames\obj\Debug\TECForGames.Level5.resources
+E:\PAF-KIET University\OOP Assignment\Application Code\Project\TECForGames\TECForGames\obj\Debug\TECForGames.Load.resources
+E:\PAF-KIET University\OOP Assignment\Application Code\Project\TECForGames\TECForGames\obj\Debug\TECForGames.Lose.resources
+E:\PAF-KIET University\OOP Assignment\Application Code\Project\TECForGames\TECForGames\obj\Debug\TECForGames.MainMenu.resources
+E:\PAF-KIET University\OOP Assignment\Application Code\Project\TECForGames\TECForGames\obj\Debug\TECForGames.PlayerInfoAlert.resources
+E:\PAF-KIET University\OOP Assignment\Application Code\Project\TECForGames\TECForGames\obj\Debug\TECForGames.PlayersInfo.resources
+E:\PAF-KIET University\OOP Assignment\Application Code\Project\TECForGames\TECForGames\obj\Debug\TECForGames.Properties.Resources.resources
+E:\PAF-KIET University\OOP Assignment\Application Code\Project\TECForGames\TECForGames\obj\Debug\TECForGames.SignIn.resources
+E:\PAF-KIET University\OOP Assignment\Application Code\Project\TECForGames\TECForGames\obj\Debug\TECForGames.SignInAlert.resources
+E:\PAF-KIET University\OOP Assignment\Application Code\Project\TECForGames\TECForGames\obj\Debug\TECForGames.SignOut.resources
+E:\PAF-KIET University\OOP Assignment\Application Code\Project\TECForGames\TECForGames\obj\Debug\TECForGames.SignUp.resources
+E:\PAF-KIET University\OOP Assignment\Application Code\Project\TECForGames\TECForGames\obj\Debug\TECForGames.SignUpAlert.resources
+E:\PAF-KIET University\OOP Assignment\Application Code\Project\TECForGames\TECForGames\obj\Debug\TECForGames.Win.resources
+E:\PAF-KIET University\OOP Assignment\Application Code\Project\TECForGames\TECForGames\obj\Debug\TECForGames.csproj.GenerateResource.cache
+E:\PAF-KIET University\OOP Assignment\Application Code\Project\TECForGames\TECForGames\obj\Debug\TECForGames.csproj.CoreCompileInputs.cache
+E:\PAF-KIET University\OOP Assignment\Application Code\Project\TECForGames\TECForGames\obj\Debug\TECForGames.exe
+E:\PAF-KIET University\OOP Assignment\Application Code\Project\TECForGames\TECForGames\obj\Debug\TECForGames.pdb
+E:\PAF-KIET University\OOP Assignment\Application Code\Project\TECForGames\TECForGames\bin\Debug\TECForGames.exe.config
+E:\PAF-KIET University\OOP Assignment\Application Code\Project\TECForGames\TECForGames\bin\Debug\TECForGames.exe
+E:\PAF-KIET University\OOP Assignment\Application Code\Project\TECForGames\TECForGames\bin\Debug\TECForGames.pdb
+E:\PAF-KIET University\OOP Assignment\Application Code\Project\TECForGames\TECForGames\obj\Debug\TECForGames.ExceptionError.resources
+E:\PAF-KIET University\OOP Assignment\Application Code\Project\TECForGames\TECForGames\obj\Debug\TECForGames.ForgetPasswordAlert.resources
+E:\PAF-KIET University\OOP Assignment\Application Code\Project\TECForGames\TECForGames\obj\Debug\TECForGames.ForgetPassword.resources
+E:\PAF-KIET University\OOP Assignment\Application Code\Project\TECForGames\TECForGames\obj\Debug\TECForGames.csprojAssemblyReference.cache
+C:\Users\SAAD COMMUNICATION\source\repos\Project\DevX(OOP)\TECForGames\bin\Debug\TECForGames.exe.config
+C:\Users\SAAD COMMUNICATION\source\repos\Project\DevX(OOP)\TECForGames\bin\Debug\TECForGames.exe
+C:\Users\SAAD COMMUNICATION\source\repos\Project\DevX(OOP)\TECForGames\bin\Debug\TECForGames.pdb
+C:\Users\SAAD COMMUNICATION\source\repos\Project\DevX(OOP)\TECForGames\obj\Debug\Interop.WMPLib.dll
+C:\Users\SAAD COMMUNICATION\source\repos\Project\DevX(OOP)\TECForGames\obj\Debug\TECForGames.csproj.ResolveComReference.cache
+C:\Users\SAAD COMMUNICATION\source\repos\Project\DevX(OOP)\TECForGames\obj\Debug\TECForGames.AboutGame.resources
+C:\Users\SAAD COMMUNICATION\source\repos\Project\DevX(OOP)\TECForGames\obj\Debug\TECForGames.Complete.resources
+C:\Users\SAAD COMMUNICATION\source\repos\Project\DevX(OOP)\TECForGames\obj\Debug\TECForGames.ExceptionError.resources
+C:\Users\SAAD COMMUNICATION\source\repos\Project\DevX(OOP)\TECForGames\obj\Debug\TECForGames.Exit.resources
+C:\Users\SAAD COMMUNICATION\source\repos\Project\DevX(OOP)\TECForGames\obj\Debug\TECForGames.ForgetPassword.resources
+C:\Users\SAAD COMMUNICATION\source\repos\Project\DevX(OOP)\TECForGames\obj\Debug\TECForGames.ForgetPasswordAlert.resources
+C:\Users\SAAD COMMUNICATION\source\repos\Project\DevX(OOP)\TECForGames\obj\Debug\TECForGames.Form1.resources
+C:\Users\SAAD COMMUNICATION\source\repos\Project\DevX(OOP)\TECForGames\obj\Debug\TECForGames.GameMenu.resources
+C:\Users\SAAD COMMUNICATION\source\repos\Project\DevX(OOP)\TECForGames\obj\Debug\TECForGames.Help.resources
+C:\Users\SAAD COMMUNICATION\source\repos\Project\DevX(OOP)\TECForGames\obj\Debug\TECForGames.Level1.resources
+C:\Users\SAAD COMMUNICATION\source\repos\Project\DevX(OOP)\TECForGames\obj\Debug\TECForGames.Level2.resources
+C:\Users\SAAD COMMUNICATION\source\repos\Project\DevX(OOP)\TECForGames\obj\Debug\TECForGames.Level3.resources
+C:\Users\SAAD COMMUNICATION\source\repos\Project\DevX(OOP)\TECForGames\obj\Debug\TECForGames.Level4.resources
+C:\Users\SAAD COMMUNICATION\source\repos\Project\DevX(OOP)\TECForGames\obj\Debug\TECForGames.Level5.resources
+C:\Users\SAAD COMMUNICATION\source\repos\Project\DevX(OOP)\TECForGames\obj\Debug\TECForGames.Load.resources
+C:\Users\SAAD COMMUNICATION\source\repos\Project\DevX(OOP)\TECForGames\obj\Debug\TECForGames.Lose.resources
+C:\Users\SAAD COMMUNICATION\source\repos\Project\DevX(OOP)\TECForGames\obj\Debug\TECForGames.MainMenu.resources
+C:\Users\SAAD COMMUNICATION\source\repos\Project\DevX(OOP)\TECForGames\obj\Debug\TECForGames.PlayerInfoAlert.resources
+C:\Users\SAAD COMMUNICATION\source\repos\Project\DevX(OOP)\TECForGames\obj\Debug\TECForGames.PlayersInfo.resources
+C:\Users\SAAD COMMUNICATION\source\repos\Project\DevX(OOP)\TECForGames\obj\Debug\TECForGames.Properties.Resources.resources
+C:\Users\SAAD COMMUNICATION\source\repos\Project\DevX(OOP)\TECForGames\obj\Debug\TECForGames.SignIn.resources
+C:\Users\SAAD COMMUNICATION\source\repos\Project\DevX(OOP)\TECForGames\obj\Debug\TECForGames.SignInAlert.resources
+C:\Users\SAAD COMMUNICATION\source\repos\Project\DevX(OOP)\TECForGames\obj\Debug\TECForGames.SignOut.resources
+C:\Users\SAAD COMMUNICATION\source\repos\Project\DevX(OOP)\TECForGames\obj\Debug\TECForGames.SignUp.resources
+C:\Users\SAAD COMMUNICATION\source\repos\Project\DevX(OOP)\TECForGames\obj\Debug\TECForGames.SignUpAlert.resources
+C:\Users\SAAD COMMUNICATION\source\repos\Project\DevX(OOP)\TECForGames\obj\Debug\TECForGames.Win.resources
+C:\Users\SAAD COMMUNICATION\source\repos\Project\DevX(OOP)\TECForGames\obj\Debug\TECForGames.csproj.GenerateResource.cache
+C:\Users\SAAD COMMUNICATION\source\repos\Project\DevX(OOP)\TECForGames\obj\Debug\TECForGames.csproj.CoreCompileInputs.cache
+C:\Users\SAAD COMMUNICATION\source\repos\Project\DevX(OOP)\TECForGames\obj\Debug\TECForGames.exe
+C:\Users\SAAD COMMUNICATION\source\repos\Project\DevX(OOP)\TECForGames\obj\Debug\TECForGames.pdb
+C:\Users\SAAD COMMUNICATION\source\repos\Project\DevX(OOP)\TECForGames\obj\Debug\TECForGames.csprojAssemblyReference.cache
+G:\PAF KIET\Application Codes\Projects\DevX(OOP)\TECForGames\bin\Debug\TECForGames.exe.config
+G:\PAF KIET\Application Codes\Projects\DevX(OOP)\TECForGames\bin\Debug\TECForGames.exe
+G:\PAF KIET\Application Codes\Projects\DevX(OOP)\TECForGames\bin\Debug\TECForGames.pdb
+G:\PAF KIET\Application Codes\Projects\DevX(OOP)\TECForGames\obj\Debug\TECForGames.csprojAssemblyReference.cache
+G:\PAF KIET\Application Codes\Projects\DevX(OOP)\TECForGames\obj\Debug\Interop.WMPLib.dll
+G:\PAF KIET\Application Codes\Projects\DevX(OOP)\TECForGames\obj\Debug\TECForGames.csproj.ResolveComReference.cache
+G:\PAF KIET\Application Codes\Projects\DevX(OOP)\TECForGames\obj\Debug\TECForGames.AboutGame.resources
+G:\PAF KIET\Application Codes\Projects\DevX(OOP)\TECForGames\obj\Debug\TECForGames.Complete.resources
+G:\PAF KIET\Application Codes\Projects\DevX(OOP)\TECForGames\obj\Debug\TECForGames.ExceptionError.resources
+G:\PAF KIET\Application Codes\Projects\DevX(OOP)\TECForGames\obj\Debug\TECForGames.Exit.resources
+G:\PAF KIET\Application Codes\Projects\DevX(OOP)\TECForGames\obj\Debug\TECForGames.ForgetPassword.resources
+G:\PAF KIET\Application Codes\Projects\DevX(OOP)\TECForGames\obj\Debug\TECForGames.ForgetPasswordAlert.resources
+G:\PAF KIET\Application Codes\Projects\DevX(OOP)\TECForGames\obj\Debug\TECForGames.Form1.resources
+G:\PAF KIET\Application Codes\Projects\DevX(OOP)\TECForGames\obj\Debug\TECForGames.GameMenu.resources
+G:\PAF KIET\Application Codes\Projects\DevX(OOP)\TECForGames\obj\Debug\TECForGames.Help.resources
+G:\PAF KIET\Application Codes\Projects\DevX(OOP)\TECForGames\obj\Debug\TECForGames.Level1.resources
+G:\PAF KIET\Application Codes\Projects\DevX(OOP)\TECForGames\obj\Debug\TECForGames.Level2.resources
+G:\PAF KIET\Application Codes\Projects\DevX(OOP)\TECForGames\obj\Debug\TECForGames.Level3.resources
+G:\PAF KIET\Application Codes\Projects\DevX(OOP)\TECForGames\obj\Debug\TECForGames.Level4.resources
+G:\PAF KIET\Application Codes\Projects\DevX(OOP)\TECForGames\obj\Debug\TECForGames.Level5.resources
+G:\PAF KIET\Application Codes\Projects\DevX(OOP)\TECForGames\obj\Debug\TECForGames.Load.resources
+G:\PAF KIET\Application Codes\Projects\DevX(OOP)\TECForGames\obj\Debug\TECForGames.Lose.resources
+G:\PAF KIET\Application Codes\Projects\DevX(OOP)\TECForGames\obj\Debug\TECForGames.MainMenu.resources
+G:\PAF KIET\Application Codes\Projects\DevX(OOP)\TECForGames\obj\Debug\TECForGames.PlayerInfoAlert.resources
+G:\PAF KIET\Application Codes\Projects\DevX(OOP)\TECForGames\obj\Debug\TECForGames.PlayersInfo.resources
+G:\PAF KIET\Application Codes\Projects\DevX(OOP)\TECForGames\obj\Debug\TECForGames.Properties.Resources.resources
+G:\PAF KIET\Application Codes\Projects\DevX(OOP)\TECForGames\obj\Debug\TECForGames.SignIn.resources
+G:\PAF KIET\Application Codes\Projects\DevX(OOP)\TECForGames\obj\Debug\TECForGames.SignInAlert.resources
+G:\PAF KIET\Application Codes\Projects\DevX(OOP)\TECForGames\obj\Debug\TECForGames.SignOut.resources
+G:\PAF KIET\Application Codes\Projects\DevX(OOP)\TECForGames\obj\Debug\TECForGames.SignUp.resources
+G:\PAF KIET\Application Codes\Projects\DevX(OOP)\TECForGames\obj\Debug\TECForGames.SignUpAlert.resources
+G:\PAF KIET\Application Codes\Projects\DevX(OOP)\TECForGames\obj\Debug\TECForGames.Win.resources
+G:\PAF KIET\Application Codes\Projects\DevX(OOP)\TECForGames\obj\Debug\TECForGames.csproj.GenerateResource.cache
+G:\PAF KIET\Application Codes\Projects\DevX(OOP)\TECForGames\obj\Debug\TECForGames.csproj.CoreCompileInputs.cache
+G:\PAF KIET\Application Codes\Projects\DevX(OOP)\TECForGames\obj\Debug\TECForGames.exe
+G:\PAF KIET\Application Codes\Projects\DevX(OOP)\TECForGames\obj\Debug\TECForGames.pdb
